@@ -15,4 +15,4 @@ My current work typically involves collaborating with clients in financial servi
 
 Feel free to connect with or contact me via [LinkedIn](https://www.linkedin.com/in/alvin-n-802a65226/). I am open to collaboration or freelance work.
 
-For a closer look at my projects, see the [[Projects/Index|Projects]] section.
+For a closer look at my projects, see the [[Projects/|Projects]] section.
