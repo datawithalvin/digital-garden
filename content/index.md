@@ -7,7 +7,7 @@ date: 2024-01-05
 ---
 
 # Alvin Noza
-### Data Viz. Machine Learning. Data Consultant. 
+### Data Viz. Machine Learning. 
 
 I enjoy solving problems with data and have experience in numerous aspects of data work, from descriptive analytics to predictive modeling. I use various machine learning approaches to meet clients' needs, drawing from my experience in data consultancy.
 
