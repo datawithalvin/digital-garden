@@ -7,6 +7,8 @@ tags:
 date: 2024-09-08
 ---
 
+![ned-flanders-neighbor](/images/ned-flanders-neighbor.png)
+
 K-Nearest Neighbor, atau KNN, adalah salah satu algoritma *supervised machine learning* yang sangat populer dan seringkali digunakan untuk menyelesaikan kasus-kasus klasifikasi maupun regresi. Cara kerja dari KNN ini sebenarnya cukup sederhana, yaitu dengan mengidentifikasi "K" atau jumlah tetangga terdekat dari data yang sudah ada kemudian menggunakan sampel tersebut untuk menentukan prediksi nilai regresi ataupun klasifikasi dari data baru. Cara kerja dan metode dari KNN adalah non-parametrik karena algoritma ini tidak membuat asumsi apapun dari distribusi data yang ada, sederhananya KNN menentukan nilai atau kelas dari sebuah data dengan melihat data yang ada di sekitar data tersebut. Meskipun sederhana dan sudah diperkenalkan sejak 1950-an, algoritma ini masih jadi salah satu pilihan yang bisa diandalkan untuk membangun kasus-kasus machine learning, terutama pada dataset yang ukurannya relatif kecil hingga menengah dan sudah cukup bersih.
 
 Untuk dapat memahami lebih dalam apa itu KNN dan bagaimana cara kerjanya, di dalam artikel ini kita akan menulis KNN dari nol menggunakan Python dengan *OOP style* (well, secara teknis gak dari nol banget juga karena kita masih menggunakan dependensi lain seperti NumPy hahaha). Lalu pada artikel berikutnya, kita akan coba mengimplementasikan algoritma yang sudah kita tulis ini ke dalam sebuah *use-case*.
