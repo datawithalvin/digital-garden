@@ -4,7 +4,7 @@ draft: false
 tags:
   - MachineLearning
   - KNN
-date: 2024-09-08
+date: 2024-03-08
 ---
 
 ![ned-flanders-neighbor](/images/ned-flanders-neighbor.png)
